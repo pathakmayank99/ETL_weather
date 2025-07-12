@@ -60,6 +60,11 @@ The ETL pipeline is orchestrated using Apache Airflow and containerized via Dock
 
 ---
 
+## 🗂️ ▶️  Airflow DAG Run Demo
+
+[![Watch Demo](https://img.youtube.com/vi/k2oZucm7pl0/0.jpg)](https://youtu.be/k2oZucm7pl0)
+
+
 ### 5. **Establish Required Connections**
 
 #### A. PostgreSQL Connection (Airflow)
@@ -69,6 +74,12 @@ The ETL pipeline is orchestrated using Apache Airflow and containerized via Dock
 #### B. Open-Meteo API (Handled in Code)
 - The API does not require authentication.
 - URL, params, and location coordinates are defined within the ETL script.
+
+## ▶️ 📊 Demo Video
+
+[![Watch Demo](https://img.youtube.com/vi/YudcAb6tswo/0.jpg)](https://youtu.be/YudcAb6tswo)
+
+
 
 ---
 
@@ -86,4 +97,6 @@ The ETL pipeline is orchestrated using Apache Airflow and containerized via Dock
 ```bash
 astro dev start
 ```
+## ▶️ 📊 Demo Video
+
 [![Watch Demo](https://img.youtube.com/vi/BoTmYWhkjrc/0.jpg)](https://www.youtube.com/watch?v=BoTmYWhkjrc)
