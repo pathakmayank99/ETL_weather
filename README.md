@@ -85,3 +85,5 @@ The ETL pipeline is orchestrated using Apache Airflow and containerized via Dock
 - Run in bash
 ```bash
 astro dev start
+```
+[![Watch Demo](https://img.youtube.com/vi/BoTmYWhkjrc/0.jpg)](https://www.youtube.com/watch?v=BoTmYWhkjrc)
