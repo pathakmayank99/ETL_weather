@@ -24,9 +24,7 @@ This project demonstrates a basic yet robust ETL (Extract, Transform, Load) pipe
 
 ## Architecture
 
-
-<img width="1978" height="1160" alt="Weather_etl_architecture" src="https://github.com/user-attachments/assets/5f83e6dd-79f4-443c-ae67-592d4e0ca6c6" />
-
+<img width="1978" height="1160" alt="Weather_etl_architecture" src="https://github.com/user-attachments/assets/687c33c1-ab6c-40f4-84a5-54dfec8ff6d4" />
 
 
 
