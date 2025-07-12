@@ -62,12 +62,8 @@ The ETL pipeline is orchestrated using Apache Airflow and containerized via Dock
 
 ## 🗂️ ▶️  Airflow DAG Run Demo
 
-<h3>🗂️ Airflow DAG Run Demo</h3>
-<a href="https://youtu.be/k2oZucm7pl0" target="_blank">
-  <img src="https://img.youtube.com/vi/k2oZucm7pl0/0.jpg" alt="Watch Demo" width="600">
-</a>
-<br>
-<a href="https://youtu.be/k2oZucm7pl0" target="_blank">▶️ Click here to watch on YouTube</a>
+[![Watch Demo](https://img.youtube.com/vi/k2oZucm7pl0/0.jpg)](https://youtu.be/k2oZucm7pl0)
+
 
 ### 5. **Establish Required Connections**
 
